@@ -18,7 +18,7 @@
        pip install argparse
 </ul>
 
-<h2>The contents of this Project :</h2>
+<h2>Le contenu du Project :</h2>
 <ul>
   <li>opencv_face_detector.pbtxt</li>
   <li>opencv_face_detector_uint8.pb</li>
